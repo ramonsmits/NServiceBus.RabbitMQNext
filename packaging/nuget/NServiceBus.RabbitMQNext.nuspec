@@ -16,6 +16,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="..\..\binaries\NServiceBus.Transports.RabbitMQNext.???" target="lib\net461" />
+    <file src="..\..\binaries\NServiceBus.Transports.RabbitMQNext.???" target="lib" />
   </files>
 </package>
